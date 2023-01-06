@@ -1,2 +1,2 @@
 # vovingyd.github.io
-https://github.com/vovingyd/CAD/blob/main/Adjustable%20Motor%20Holder%202022/Adjustable%20Motor%20Holder%201.PNG?raw=true
+![Alt text](https://raw.githubusercontent.com/vovingyd/CAD/main/Adjustable%20Motor%20Holder%202022/Adjustable%20Motor%20Holder%201.PNG "a title")
